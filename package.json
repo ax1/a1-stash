@@ -25,8 +25,5 @@
     "url": "https://github.com/ax1/a1-stash/issues"
   },
   "homepage": "https://github.com/ax1/a1-stash#readme",
-  "dependencies": {
-    "a1-util": "^1.1.0"
-  },
-  "type": "module"
+  "dependencies": {}
 }
