@@ -1,0 +1,32 @@
+{
+  "name": "a1-stash",
+  "version": "1.0.0",
+  "description": "Encrypt,and backup a folder. Then save it in a secure directory or external server. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ax1/a1-stash.git"
+  },
+  "keywords": [
+    "stash",
+    "secure",
+    "encrypt",
+    "save",
+    "store",
+    "shelve",
+    "protect"
+  ],
+  "author": "ax1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ax1/a1-stash/issues"
+  },
+  "homepage": "https://github.com/ax1/a1-stash#readme",
+  "dependencies": {
+    "a1-util": "^1.1.0"
+  },
+  "type": "module"
+}
